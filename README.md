@@ -3,11 +3,13 @@
 a simple website to show the products for a furniture Gallery
 
 
-## useing
-# React
-# Typescript
-# Tailwind
-# oAuth0
+
+
+## using ...
+- ### React
+- ### Typescript
+- ### Tailwind
+- ### oAuth0
 
 
 Runs the app in the development mode.\
