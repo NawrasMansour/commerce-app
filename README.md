@@ -1,6 +1,6 @@
 
 # Commerce App
-a simple website to show the products for a furniture Gallery
+a simple website to show the products.
 
 
 
